@@ -1,4 +1,4 @@
-name: My First CI/CD Pipeline Project
+name: My First CI/CD Pipeline
 
 on:
   push:
